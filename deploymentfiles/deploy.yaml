@@ -24,6 +24,6 @@ spec:
     spec:
       containers: 
       - name: facebook-container
-        image: 070796/batch17d:15
+        image: 070796/batch17d:16
         ports:
         - containerPort: 8080
